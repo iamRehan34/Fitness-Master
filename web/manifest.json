@@ -1,6 +1,6 @@
 {
-    "name": "fitness_pro",
-    "short_name": "fitness_pro",
+    "name": "fitness",
+    "short_name": "fitness",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
